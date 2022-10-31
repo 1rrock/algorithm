@@ -1,3 +1,4 @@
+// 신규아이디추천
 function solution(new_id) {
     let answer = new_id.toLowerCase();
     answer = answer.replace(/[^a-z0-9-_.]/gi, "");

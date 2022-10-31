@@ -1,3 +1,4 @@
+// 신고결과받기
 const id_list = ["muzi", "frodo", "apeach", "neo"];
 const report = ["muzi frodo", "apeach frodo", "frodo neo", "muzi neo", "apeach muzi", "muzi frodo"];
 const k = 2;

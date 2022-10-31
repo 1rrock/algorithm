@@ -1,3 +1,4 @@
+// 문자열압축
 const s1 = "aabbaccc"; //2a2ba2c
 const s2 = "ababcdcdababcdcd"; //2ababcdcd
 const s3 = "abcabcdede";

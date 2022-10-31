@@ -1,3 +1,4 @@
+// 로또
 // const lottos = [0, 0, 0, 0, 0, 0];
 // const win_nums = [[38, 19, 20, 40, 15, 25]];
 const lottos = [45, 4, 35, 20, 3, 9];

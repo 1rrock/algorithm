@@ -1,3 +1,4 @@
+// k번째수
 const array = [1, 30, 4, 21, 100000];
 const commands = [
     [2, 5, 3],
